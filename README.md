@@ -1,7 +1,9 @@
 # 9Fizik
 İsim:Sıla Erdoğan     
 No:107     
-Sınıf:9/A     
+Sınıf:9/A      
+
+COCOLATE DONUT RECIPE
 
 INGREDIENTS(for 12 servings)     
 DOUGH     
@@ -30,7 +32,11 @@ Sprinkles
 7)Cut out the doughnuts and donut holes with a cookie cutter and piping tip.     
 8)Heat the oil to 190C and fry the donuts on each side until golden brown.     
 9)Melt the cocolates in seperate bowls and cover the donuts with them. Then put some sprinkles on top(or you can use powdered sugar, wallnuts etc.)     
-10)Enjoy!     
+10)Enjoy!    
+
+![donuts](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSjUk_pCkDtzAOcbYo2EYyRlNSayF5Go6IrWae39Y-BI1yHzp9l&usqp=CAU)
+
+
 
 
 |INGREDIENTS| AMOUNT| CALORIES|     
